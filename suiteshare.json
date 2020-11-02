@@ -1,0 +1,25 @@
+{
+    "user_chat": "#side #pane-side ._210SC",
+    "msg_chat": ".focusable-list-item", 
+    "msg_box": "._3uMse", 
+    "msg_in": ".message-in .copyable-text span",
+    "msg_out": ".message-out .copyable-text span",
+    "msg_in_img": ".message-in .gDOmN img",
+    "msg_in_img_text": ".message-in .JfHHx span",
+    "msg_out_img": ".message-out .gDOmN img",
+    "msg_out_img_text": ".message-out .JfHHx span",
+    "msg_chat_hour": "span._18lLQ", 
+    "msg_chat_btn_send": "._1U1xa", 
+    "msg_chat_enter_send": "._3FRCZ", 
+    "user_details": "header", 
+    "user_details_items": "header",
+    "user_details_close": "header .t4a8o",
+    "user_details_number": "span .selectable-text ._1X4JR", 
+    "user_details_name": "span ._5h6Y_",
+    "user_details_name_alternative": "._1jlxc",
+    "user_details_box": "._14VS3", 
+    "user_details_box_right": ".Wu52Z", 
+    "user_details_box_left": "._1xXdX"
+}
+    
+
