@@ -9,6 +9,7 @@
     "msg_out_img": ".message-out .gDOmN img",
     "msg_out_img_text": ".message-out .JfHHx span",
     "msg_chat_hour": "span._18lLQ", 
+    "msg_chat_date": "._2et95._1E1g0 span._3Whw5", 
     "msg_chat_btn_send": "._1U1xa", 
     "msg_chat_enter_send": "._3FRCZ", 
     "user_details": "header", 
