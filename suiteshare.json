@@ -15,9 +15,9 @@
     "user_details": "header", 
     "user_details_items": "header",
     "user_details_close": "header .hYtwT",
-    "user_details_number": "span .selectable-text ._1X4JR", 
-    "user_details_name": "span ._5h6Y_",
-    "user_details_name_alternative": "._1jlxc",
+    "user_details_number": "._3VotX span._1VzZY", 
+    "user_details_name": "._3ZYWe ._1XH7x._1VzZY",
+    "user_details_name_alternative": "._2Phw8 .OXGxe._1VzZY",
     "user_details_box": ".i5ly3._299go", 
     "user_details_box_right": ".i5ly3._2l_Ww", 
     "user_details_box_left": ".i5ly3._2NwAr"
