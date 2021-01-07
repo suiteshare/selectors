@@ -8,7 +8,7 @@
     "msg_in_img_text": ".message-in .JfHHx span",
     "msg_out_img": ".message-out .gDOmN img",
     "msg_out_img_text": ".message-out .JfHHx span",
-    "msg_chat_hour": "span._18lLQ", 
+    "msg_chat_hour": "span._2JNr-", 
     "msg_chat_date": "._2et95._1E1g0 span._3Whw5", 
     "msg_chat_btn_send": "span[data-icon='send']", 
     "msg_chat_enter_send": "footer ._1awRl", 
