@@ -14,11 +14,11 @@
     "msg_chat_enter_send": "footer ._1awRl",
     "user_details": "header",
     "user_details_items": "header",
-    "user_details_close": "header .hYtwT",
-    "user_details_number": "._3VotX span._1VzZY.copyable-text",
-    "user_details_name": "._3ZYWe ._1XH7x._1VzZY",
+    "user_details_close": "header ._27F2N",
+    "user_details_number": "._10szZ span._3-8er.copyable-text",
+    "user_details_name": "._3ZEdX ._3hiFt .bRenh",
     "user_details_name_alternative": "._2Phw8 .OXGxe._1VzZY",
-    "user_details_box": ".i5ly3._299go",
-    "user_details_box_right": ".i5ly3._2l_Ww",
-    "user_details_box_left": ".i5ly3._2NwAr"
+    "user_details_box": "._1Flk2._3xysY",
+    "user_details_box_right": "._1Flk2._1sFTb",
+    "user_details_box_left": "._1Flk2._2DPZK"
 }
